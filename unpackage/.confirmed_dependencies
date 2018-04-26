@@ -1,0 +1,13 @@
+{
+  "index.html": {
+    "resources": [
+      "views/tab-webview-subpage-chat.html"
+    ],
+    "refer": [
+      "views/tab-webview-subpage-chat.html",
+      "views/tab-webview-subpage-contact.html",
+      "views/new-webview.html",
+      "views/home/home.html"
+    ]
+  }
+}

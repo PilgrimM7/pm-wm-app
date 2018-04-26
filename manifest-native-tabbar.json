@@ -278,8 +278,7 @@
 		"pages": {
 			"index.html": {
 				"resources": [
-					"views/tab-webview-subpage-chat.html",
-					"views/home/home.html"
+					"views/tab-webview-subpage-chat.html"
 				],
 				"refer": [
 					"views/tab-webview-subpage-contact.html",
